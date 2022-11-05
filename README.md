@@ -1,2 +1,2 @@
 # Patika-Projeleri
-Eğitim tamamlama ödevleri
+https://app.patika.dev/emelinur
